@@ -1,0 +1,8 @@
+{
+  "name": "ShopAI - Sua Vendedora Pessoal",
+  "description": "Uma experiência de compra estilo Polishop impulsionada por IA, com recomendações personalizadas e busca inteligente na Amazon e Mercado Livre.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
